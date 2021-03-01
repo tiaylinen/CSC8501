@@ -1,0 +1,25 @@
+XXXXXXXXXXXXXXXXXXXXXEXXX
+X    XX XXX X X X XoooXXX
+X  X        X Xooooo  X X
+X             XoX   X   X
+X X X       XoooX X X X X
+X X X X X X  oX X X   X X
+X     X X X XoX         X
+X            oX  X   X XX
+X XX XX  X X o       X  X
+X    ooooX   o  X X     X
+X XX oX ooooXoX X X X  XX
+EoooooX X  oooX X X     X
+X X X   X   S X   X XXooE
+X   X   X X ooooooooooo X
+X           oX  XXX X   X
+X  X X X    oX      X  XX
+X    X X    o           X
+X X         o   X   X XXX
+X X X       o   X X X   X
+X X X XXXXXXoX      X X X
+X X Xoooooooo  XXX      X
+X    oX X   X      X XX X
+X  XXoX X X X   XX      X
+X ooooX X   X X    XXX XX
+XXEXXXXXXXXXXXXXXXXXXXXXX

@@ -1,0 +1,24 @@
+﻿  generator.cpp
+C:\Users\OMISTAJA\source\repos\CSC8501\CSC8501-W3\mazegeneration\mazegeneration\generator.cpp(35,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\OMISTAJA\source\repos\CSC8501\CSC8501-W3\mazegeneration\mazegeneration\generator.cpp(37,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\OMISTAJA\source\repos\CSC8501\CSC8501-W3\mazegeneration\mazegeneration\generator.cpp(39,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\OMISTAJA\source\repos\CSC8501\CSC8501-W3\mazegeneration\mazegeneration\generator.cpp(46,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\OMISTAJA\source\repos\CSC8501\CSC8501-W3\mazegeneration\mazegeneration\generator.cpp(52,32): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\OMISTAJA\source\repos\CSC8501\CSC8501-W3\mazegeneration\mazegeneration\generator.cpp(65,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\OMISTAJA\source\repos\CSC8501\CSC8501-W3\mazegeneration\mazegeneration\generator.cpp(67,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\OMISTAJA\source\repos\CSC8501\CSC8501-W3\mazegeneration\mazegeneration\generator.cpp(74,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\OMISTAJA\source\repos\CSC8501\CSC8501-W3\mazegeneration\mazegeneration\generator.cpp(74,52): warning C4018: '<': signed/unsigned mismatch
+C:\Users\OMISTAJA\source\repos\CSC8501\CSC8501-W3\mazegeneration\mazegeneration\generator.cpp(96,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\OMISTAJA\source\repos\CSC8501\CSC8501-W3\mazegeneration\mazegeneration\generator.cpp(98,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\OMISTAJA\source\repos\CSC8501\CSC8501-W3\mazegeneration\mazegeneration\generator.cpp(106,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\OMISTAJA\source\repos\CSC8501\CSC8501-W3\mazegeneration\mazegeneration\generator.cpp(108,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\OMISTAJA\source\repos\CSC8501\CSC8501-W3\mazegeneration\mazegeneration\generator.cpp(153,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\OMISTAJA\source\repos\CSC8501\CSC8501-W3\mazegeneration\mazegeneration\generator.cpp(173,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\OMISTAJA\source\repos\CSC8501\CSC8501-W3\mazegeneration\mazegeneration\generator.cpp(185,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\OMISTAJA\source\repos\CSC8501\CSC8501-W3\mazegeneration\mazegeneration\generator.cpp(200,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\OMISTAJA\source\repos\CSC8501\CSC8501-W3\mazegeneration\mazegeneration\generator.cpp(202,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\OMISTAJA\source\repos\CSC8501\CSC8501-W3\mazegeneration\mazegeneration\generator.cpp(224,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\OMISTAJA\source\repos\CSC8501\CSC8501-W3\mazegeneration\mazegeneration\generator.cpp(226,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\OMISTAJA\source\repos\CSC8501\CSC8501-W3\mazegeneration\mazegeneration\generator.cpp(245,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\OMISTAJA\source\repos\CSC8501\CSC8501-W3\mazegeneration\mazegeneration\generator.cpp(278,21): warning C4018: '<': signed/unsigned mismatch
+  mazegeneration.vcxproj -> C:\Users\OMISTAJA\source\repos\CSC8501\CSC8501-W3\mazegeneration\Debug\mazegeneration.exe

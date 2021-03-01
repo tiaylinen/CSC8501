@@ -1,0 +1,55 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X X         XXX X  XXXXXXXXX       X X     XXX   X   XX
+X X XXXX X      X            X X     X XXX         X  X
+X X             X       XX X     X   X          X    XX
+X           X X               X          XXXXXX       X
+X X         X X X X X     X X X X XXX  X            X X
+X X XXXXXXX   X X X       X X   X          X    XXX   X
+EoooooooooooX          X             X XX     X       X
+X  XXXX X  ooooXX X        X X X X X X    X           X
+X       X   X ooooX    XXX X   X X X   X     X      XXX
+X   X   X X    X oX X        X     X X   X      X X   X
+X       X X  X X oooX     X                   X X X XXX
+X X X X   X    X X oX   X X  XX X X     X X X X X X   X
+X   X X X          oooooX            X              XXX
+X X   X X      X X X   oooXXX XX     X X XX X  XX     X
+X X X X      X     X X X oo      XXX              XXX X
+X        XXX             XoXXX        X X X X         X
+X  X X        X X X X  X  o       X X     X X     XXX X
+X      X X    X X   X  X Xo  XXX       XX     X       X
+X X X    X X  X X        Xo      X X X    X      X    X
+X X   X  X        X      XoXXXX  X X             X    X
+X                    X   Xo             XX X X X X X XX
+X    X X    XXXXXX X X   XoX X    X                X XX
+X  X X   X             X  oX   X  X  X    X XX   X    X
+X    X X X          X     oo   X     X X  X      X    X
+X X  X   X   XXX X  X      o X X XX    X     X X   X XX
+X X      X          X XXXX o X X               X X    X
+X   X X    X X X  X X      S        X XXXX   X       XX
+X     X X  X            X oo      X X          XX  X XX
+X XX         X   X        oX XX         X X XX     X  X
+X        X   X      XX XXXoX          X X X    X      X
+X X XXXX X      XX        o    XXX X        X    X XXXX
+X X           X     XXXX  oX X       XX X X X X  X    X
+X        XX X   X         o    X  X     X     X       X
+X XXXXX         X XX X    oXXX X     X  X            XX
+X        XXXX          XX o      X X X    XX XXXXXXX  X
+X  X XX       X X X    oooo X XX   X X X             XX
+X       X X X X X      oXXX                  XX       X
+X X  X    X X X X   X Xo     X XXX XX X X             X
+X X  X            X    o                   XXX X  X X X
+X X               X  XXo XXXXX       XXX X            X
+X      X X  X X X      o         X       X X X  X XX  X
+X  X X X X  X X X X   oo   X     X X   X X X    X     X
+X  X   X X  X X   X   oX X         X X          X     X
+X    X X X          X oX    X X XX X       X       X XX
+X XX X X X X X   X    oX  X X X                 XX X  X
+X                X XXXoX    X    X X XX      X        X
+X    X X   XX XX     oo  XX                           X
+X    X X X       XXXXoX      X  X X X  X X X        X X
+X X  X   X X   ooooooo    XX X           X X XX   X   X
+X X          oooX X X                 X         X X XXX
+X X X   XXooooX X X          X XXXXX      X           X
+X X X X   oX          XX X X X          X X X XX     XX
+X     oooooX  X  X XX    X   X    X XXX   X      X X  X
+XXXXXXEXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
